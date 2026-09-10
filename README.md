@@ -25,5 +25,5 @@ Rancho-do-Saber: jogo educativo feito em Godot (GDScript), inspirado no visual d
 Calculadora-Logica: calculadora de lógica proposicional feita em JavaScript, que interpreta expressões com operadores lógicos (negação, conjunção, disjunção, ou-exclusivo, condicional e bicondicional) e gera automaticamente a tabela-verdade correspondente.
 Calculadora-de-Aportes-de-Investimentos: ferramenta em Java, orientada a objetos, para automatizar o cálculo de rebalanceamento de aportes mensais em uma carteira de investimentos (ações, FIIs e renda fixa), distribuindo o valor investido de acordo com os pesos-alvo definidos para cada classe de ativo.
 Contato
-E-mail: franmagnoquezado@gmail.com
+E-mail: magnoquezado06@gmail.com
 GitHub: github.com/Franmagno06
