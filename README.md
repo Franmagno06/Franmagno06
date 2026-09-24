@@ -21,11 +21,11 @@
 
 ## 👋 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza (Unifor)**, 4º semestre — PMG 9,15
+- 🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza (Unifor)**, 4º semestre — CRA 9,15
 - 💡 Co-fundador e desenvolvedor backend na **NeuroLearn**, startup vencedora do Bootcamp de Startups da Unifor Hub
 - 📚 Monitor institucional da disciplina de **Modelagem de Problemas com Matemática**
 - 🚀 Gosto de sair da teoria e colocar a mão na massa — meus projetos pessoais evoluem em produção contínua
-- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Desenvolvimento de Software**
+- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Mobile**
 - 📍 Fortaleza, CE — Brasil
 
 <br/>
@@ -40,68 +40,45 @@
 
 <br/>
 
-## 🚀 Projetos
+## 🚀 Projetos Principais
 
-<div align="center">
+### ♻️ [Circula](https://desafio-vortex-api.vercel.app)
+**Marketplace/PWA de economia circular do campus onde estudantes doam, vendem e trocam livros, jalecos e materiais universitários, dando uma segunda vida ao que sobra do semestre.**
 
-<a href="https://github.com/Franmagno06/Desafio-Vortex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Franmagno06&repo=Desafio-Vortex&theme=dark&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&border_color=2F80ED" />
-</a>
-<a href="https://github.com/Franmagno06/PortfolioLab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Franmagno06&repo=PortfolioLab&theme=dark&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&border_color=2F80ED" />
-</a>
+---
 
-<a href="https://github.com/cauammedeiros/Unibook_Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauammedeiros&repo=Unibook_Android&theme=dark&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&border_color=2F80ED" />
-</a>
-<a href="https://github.com/Franmagno06/Rancho-do-Saber">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Franmagno06&repo=Rancho-do-Saber&theme=dark&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&border_color=2F80ED" />
-</a>
+### 📈 [PortfolioLab](https://github.com/Franmagno06/PortfolioLab)
+**Plataforma de acompanhamento de carteira de investimentos com motor de rebalanceamento automático e módulo de IA que analisa relatórios financeiros em PDF e gera resumos e alertas.**
 
-</div>
+---
+
+### 📚 [Unibook](https://github.com/cauammedeiros/Unibook_Android)
+**App de biblioteca universitária com chatbot de IA integrado ao acervo, ajudando alunos a consultar livros e tirar dúvidas sem sair do aplicativo.**
+
+---
+
+### 🌾 [Rancho do Saber](https://github.com/Franmagno06/Rancho-do-Saber)
+**Jogo educativo em Godot que transforma o cuidado de uma fazenda virtual em prática de matemática para crianças do ensino fundamental.**
+
+---
+
+### 🛒 Unishop `(em desenvolvimento)`
+**E-commerce para alunos da Unifor comprarem e venderem materiais e itens dentro do campus — hoje só cerca de 1.400 dos 25 mil alunos participam de grupos informais de troca, e o projeto busca ampliar isso.**
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Franmagno06&show_icons=true&theme=dark&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=c9d1d9&border_color=2F80ED&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franmagno06&layout=compact&theme=dark&bg_color=0D1117&title_color=2F80ED&text_color=c9d1d9&border_color=2F80ED" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franmagno06&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franmagno06&theme=tokyonight" width="45%"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franmagno06&theme=dark&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=c9d1d9&dates=c9d1d9&border=2F80ED" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franmagno06&bg_color=0D1117&color=2F80ED&line=2F80ED&point=ffffff&area=true&area_color=2F80ED&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Franmagno06&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Franmagno06/Franmagno06/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<!--END_SECTION:snake-->
 
 </div>
 
