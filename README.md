@@ -1,7 +1,7 @@
 <div align="center">
 
 # Francisco Quezado
-### Desenvolvedor Full Stack | IA & Mobile
+### Desenvolvedor de Software
 
 <a href="https://github.com/Franmagno06">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unifor;Full+Stack+%E2%80%94+Node.js+%2B+React+%2B+PostgreSQL;Integrando+IA+Generativa+em+produtos+reais;Sempre+construindo+algo+novo" alt="Typing SVG" />
