@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2540,100:2F80ED&height=220&section=header&text=Francisco%20Quezado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20IA%20%26%20Mobile&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%"/>
+# Francisco Quezado
+### Desenvolvedor Full Stack | IA & Mobile
 
 <a href="https://github.com/Franmagno06">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unifor;Full+Stack+%E2%80%94+Node.js+%2B+React+%2B+PostgreSQL;Integrando+IA+Generativa+em+produtos+reais;Sempre+construindo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unifor;Full+Stack+%E2%80%94+Node.js+%2B+React+%2B+PostgreSQL;Integrando+IA+Generativa+em+produtos+reais;Sempre+construindo+algo+novo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:magnoquezado06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=2F80ED" />
 </a>
 
 </div>
