@@ -26,7 +26,7 @@
 - 💡 Co-fundador e desenvolvedor backend na **NeuroLearn**, startup vencedora do Bootcamp de Startups da Unifor Hub
 - 📚 Monitor institucional da disciplina de **Modelagem de Problemas com Matemática**
 - 🚀 Gosto de sair da teoria e colocar a mão na massa — meus projetos pessoais evoluem em produção contínua
-- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Mobile**
+- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Desenvolvimento de software**
 - 📍 Fortaleza, CE — Brasil
 
 <br/>
