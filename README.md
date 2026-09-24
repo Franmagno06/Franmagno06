@@ -21,11 +21,11 @@
 
 ## 👋 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza (Unifor)**, 4º semestre — CRA 9,15
+- 🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza (Unifor)**, 4º semestre — PMG 9,15
 - 💡 Co-fundador e desenvolvedor backend na **NeuroLearn**, startup vencedora do Bootcamp de Startups da Unifor Hub
 - 📚 Monitor institucional da disciplina de **Modelagem de Problemas com Matemática**
 - 🚀 Gosto de sair da teoria e colocar a mão na massa — meus projetos pessoais evoluem em produção contínua
-- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Mobile**
+- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Desenvolvimento de Software**
 - 📍 Fortaleza, CE — Brasil
 
 <br/>
