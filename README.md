@@ -63,7 +63,7 @@
 
 ---
 
-### 🛒 `([Unishop](https://github.com/Franmagno06/Unishop))`
+### 🛒 [Unishop](https://github.com/Franmagno06/Unishop)
 **E-commerce para alunos da Unifor comprarem e venderem materiais e itens dentro do campus — hoje só cerca de 1.400 dos 25 mil alunos participam de grupos informais de troca, e o projeto busca ampliar isso.**
 
 <br/>
