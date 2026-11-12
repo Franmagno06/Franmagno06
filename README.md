@@ -43,8 +43,8 @@
 
 ## 🚀 Projetos Principais
 
-### ♻️ [Circula](https://desafio-vortex-api.vercel.app)
-**Marketplace/PWA de economia circular do campus onde estudantes doam, vendem e trocam livros, jalecos e materiais universitários, dando uma segunda vida ao que sobra do semestre.**
+### 🛒 [Unishop](https://github.com/Franmagno06/Unishop)
+**E-commerce para alunos da Unifor comprarem e venderem materiais e itens dentro do campus — hoje só cerca de 1.400 dos 25 mil alunos participam de grupos informais de troca, e o projeto busca ampliar isso.**
 
 ---
 
@@ -62,9 +62,6 @@
 **Jogo educativo em Godot que transforma o cuidado de uma fazenda virtual em prática de matemática para crianças do ensino fundamental.**
 
 ---
-
-### 🛒 [Unishop](https://github.com/Franmagno06/Unishop)
-**E-commerce para alunos da Unifor comprarem e venderem materiais e itens dentro do campus — hoje só cerca de 1.400 dos 25 mil alunos participam de grupos informais de troca, e o projeto busca ampliar isso.**
 
 <br/>
 
