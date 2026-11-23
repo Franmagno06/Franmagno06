@@ -1,91 +1,70 @@
 <div align="center">
 
 # Francisco Quezado
-### Desenvolvedor de Software
 
-<a href="https://github.com/Franmagno06">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unifor;Full+Stack+%E2%80%94+Node.js+%2B+React+%2B+PostgreSQL;Integrando+IA+Generativa+em+produtos+reais;Sempre+construindo+algo+novo" alt="Typing SVG" />
-</a>
+**Desenvolvedor Full Stack em formação · React · Node.js · TypeScript · PostgreSQL**
 
-<br/>
+Estudante de Ciência da Computação na Unifor (4º semestre, CRA 9,15) · Fortaleza, CE
 
-<a href="https://www.linkedin.com/in/francisco-quezado-517428356/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:magnoquezado06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
+<a href="https://www.linkedin.com/in/francisco-quezado-517428356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Francisco Quezado" /></a>
+<a href="mailto:magnoquezado06@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Francisco" /></a>
 
 </div>
 
+---
+
+Construo sistemas web completos, do protótipo no Figma ao deploy, com testes automatizados e documentação. Tenho **dois sistemas em produção** (Unishop e PortfolioLab) e hoje trabalho como bolsista de desenvolvimento no **PET-Saúde Digital**.
+
+**Buscando estágio** em desenvolvimento de software: front-end, full stack ou back-end.
+
+## 🔭 Agora
+
+- 🏥 **Bolsista de Desenvolvimento no PET-Saúde Digital** (Unifor + Ministério da Saúde): equipe que desenvolve um sistema de painel de chamadas de pacientes para o SUS, com React, TypeScript e Spring Boot.
+- 📐 **Estudando Arquitetura de Sistemas**: princípios SOLID e padrões de projeto GoF e GRASP. Nas férias, o plano é tirar isso do papel num projeto próprio.
+
+## 🚀 Projetos em destaque
+
+### 🛒 [Unishop](https://github.com/Franmagno06/Unishop) · [ver no ar](https://unishop-web-one.vercel.app)
+Marketplace para alunos da Unifor comprarem e venderem materiais no campus, com cadastro por e-mail institucional, login com Google, pagamento por cartão e Pix (Mercado Pago), painel de administração e layout mobile-first acessível (WCAG 2.1 AA).
+**Meu papel:** gestor do projeto (equipe de 4, Scrum e Trello), prototipação de UX/UI no Figma e integração front-end/back-end. Autor de 161 dos 200 commits.
+`React` `TypeScript` `Tailwind` `TanStack Query` `Node.js` `Express` `PostgreSQL` `Prisma` `Playwright`
+
+### 📈 [PortfolioLab](https://github.com/Franmagno06/PortfolioLab) · [ver no ar](https://portfolio-lab-lyart.vercel.app)
+Plataforma para acompanhar carteiras de ações, FIIs, ETFs e renda fixa da B3: preço médio, proventos automáticos, indicadores (P/L, ROE, DY), relatórios a partir de dados abertos da CVM, notícias da carteira e uma seção educativa com 18 artigos e um glossário.
+**Destaques:** simulador de aporte por algoritmo guloso com aritmética decimal exata, back-end em 13 módulos com arquitetura em camadas e mais de 1.700 testes (unitários, integração e ponta a ponta) com CI no GitHub Actions.
+`Next.js` `React` `TypeScript` `Tailwind` `Recharts` `Node.js` `Express` `PostgreSQL` `Prisma` `Playwright`
+
+### ♻️ [Circula](https://github.com/Franmagno06/Desafio-Vortex)
+Marketplace de doação e troca de materiais universitários, feito para o desafio técnico do laboratório Vortex (Unifor). PWA com funcionamento offline, API documentada em OpenAPI e 34 testes de integração.
+`React` `Vite` `PWA` `Node.js` `TypeScript` `PostgreSQL`
+
+<details>
+<summary><b>Outros projetos</b></summary>
 <br/>
 
-## 👋 Sobre mim
+- 📚 **[Unibook](https://github.com/cauammedeiros/Unibook_Android)**: app Android de biblioteca universitária com chatbot de IA (Gemini) sobre o acervo. Fui responsável pelo Documento de Requisitos (130 requisitos). `Kotlin` `Jetpack Compose` `Firebase`
+- 🌾 **[Rancho do Saber](https://github.com/Franmagno06/Rancho-do-Saber)**: jogo educativo em que o cuidado de uma fazenda virtual vira prática de matemática para crianças do ensino fundamental. `Godot`
+- 🧮 **[Calculadora de Aportes](https://github.com/Franmagno06/Calculadora-de-Aportes-de-Investimentos)**: a primeira versão do PortfolioLab, em Java com orientação a objetos. `Java`
 
-- 🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza (Unifor)**, 4º semestre — CRA 9,15
-- 💡 Co-fundador e desenvolvedor backend na **NeuroLearn**, startup vencedora do Bootcamp de Startups da Unifor Hub
-- 📚 Monitor institucional da disciplina de **Modelagem de Problemas com Matemática**
-- 🚀 Gosto de sair da teoria e colocar a mão na massa — meus projetos pessoais evoluem em produção contínua
-- 🎯 Foco em **Full Stack**, **Inteligência Artificial** e **Desenvolvimento de software**
-- 📍 Fortaleza, CE — Brasil
+</details>
 
-<br/>
-
-## 🛠️ Tecnologias
+## 🧰 Ferramentas que uso no dia a dia
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,py,java,kotlin,docker,git,github,tailwind,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,java,spring,kotlin,docker,git,github,figma&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Express, PostgreSQL, Prisma, Java, Spring, Kotlin, Docker, Git, GitHub e Figma" />
 
 </div>
 
-<br/>
+**Testes:** Vitest, Supertest, Testing Library, Playwright · **Deploy:** Vercel, Render, Supabase · **Processo:** Scrum, Trello, code review
 
-## 🚀 Projetos Principais
+## 🏅 Trajetória
 
-### 🛒 [Unishop](https://github.com/Franmagno06/Unishop)
-**E-commerce para alunos da Unifor comprarem e venderem materiais e itens dentro do campus — hoje só cerca de 1.400 dos 25 mil alunos participam de grupos informais de troca, e o projeto busca ampliar isso.**
-
----
-
-### 📈 [PortfolioLab](https://github.com/Franmagno06/PortfolioLab)
-**Plataforma de acompanhamento de carteira de investimentos com motor de rebalanceamento automático e módulo de IA que analisa relatórios financeiros em PDF e gera resumos e alertas.**
-
----
-
-### 📚 [Unibook](https://github.com/cauammedeiros/Unibook_Android)
-**App de biblioteca universitária com chatbot de IA integrado ao acervo, ajudando alunos a consultar livros e tirar dúvidas sem sair do aplicativo.**
-
----
-
-### 🌾 [Rancho do Saber](https://github.com/Franmagno06/Rancho-do-Saber)
-**Jogo educativo em Godot que transforma o cuidado de uma fazenda virtual em prática de matemática para crianças do ensino fundamental.**
-
----
-
-<br/>
-
-## 📊 Estatísticas
+- **PET-Saúde Digital**, Unifor + Ministério da Saúde · Bolsista de Desenvolvimento · nov/2026 – atual
+- **NeuroLearn** (startup) · Co-fundador e desenvolvedor back-end · API com mais de 50 endpoints · 🥇 1º lugar no 7º Bootcamp de Startups do Unifor Hub · 2026
+- **Unifor** · Monitor de Modelagem de Problemas com Matemática (2025–2026) e autor de artigo aprovado no XXVI Encontro de Iniciação à Docência
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franmagno06&theme=tokyonight" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franmagno06&theme=tokyonight" width="45%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Franmagno06&theme=dark&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=c9d1d9&dates=c9d1d9&border=2F80ED" />
-
-</div>
-
 <br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0D1117&height=100&section=footer"/>
-
-<sub>Feito com 💙 por Francisco Quezado — sempre aberto a trocar uma ideia sobre tecnologia.</sub>
-
+<sub>Aberto a conversar sobre estágio, projetos e tecnologia. O caminho mais rápido é o LinkedIn.</sub>
 </div>
