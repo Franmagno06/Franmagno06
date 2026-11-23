@@ -26,7 +26,6 @@ Construo sistemas web completos, do protótipo no Figma ao deploy, com testes au
 
 - 🏥 **Bolsista de Desenvolvimento no PET-Saúde Digital** (Unifor + Ministério da Saúde): equipe que desenvolve um sistema de painel de chamadas de pacientes para o SUS, com React, TypeScript e Spring Boot.
 - 📐 **Estudando Arquitetura de Sistemas**: princípios SOLID e padrões de projeto GoF e GRASP. Nas férias, o plano é tirar isso do papel num projeto próprio.
-- ☕ **Bootcamp Java com IA (Itaú + DIO)**: Java e Spring Boot.
 
 ## 🚀 Projetos em destaque
 
