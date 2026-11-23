@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack em formação · React · Node.js · TypeScript · PostgreSQL**
 
-Estudante de Ciência da Computação na Unifor (4º semestre, CRA 9,15) · Fortaleza, CE
+Estudante de Ciência da Computação na Unifor (4º semestre, PMG 9,15) · Fortaleza, CE
 
 <a href="https://www.linkedin.com/in/francisco-quezado-517428356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Francisco Quezado" /></a>
 <a href="mailto:magnoquezado06@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Francisco" /></a>
