@@ -1,13 +1,18 @@
 <div align="center">
 
-# Francisco Quezado
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F80ED&height=160&section=header&text=Francisco%20Quezado&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=16" alt="Francisco Quezado, desenvolvedor full stack em formação" width="100%" />
 
-**Desenvolvedor Full Stack em formação · React · Node.js · TypeScript · PostgreSQL**
+<a href="https://github.com/Franmagno06">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=720&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Unifor;React+%2B+Node.js+%2B+TypeScript+%2B+PostgreSQL;Bolsista+de+Desenvolvimento+no+PET-Sa%C3%BAde+Digital;2+sistemas+web+em+produ%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+desenvolvimento" alt="Ciência da Computação na Unifor · React, Node.js, TypeScript e PostgreSQL · Bolsista PET-Saúde Digital · 2 sistemas em produção · Buscando estágio" />
+</a>
 
-Estudante de Ciência da Computação na Unifor (4º semestre, PMG 9,15) · Fortaleza, CE
+<br/>
 
 <a href="https://www.linkedin.com/in/francisco-quezado-517428356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Francisco Quezado" /></a>
 <a href="mailto:magnoquezado06@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Francisco" /></a>
+<a href="https://unishop-web-one.vercel.app"><img src="https://img.shields.io/badge/Unishop-no%20ar-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Unishop em produção" /></a>
+<a href="https://portfolio-lab-lyart.vercel.app"><img src="https://img.shields.io/badge/PortfolioLab-no%20ar-2F80ED?style=for-the-badge&logo=vercel&logoColor=white" alt="PortfolioLab em produção" /></a>
+<img src="https://komarev.com/ghpvc/?username=Franmagno06&label=Visitas&color=2F80ED&style=for-the-badge" alt="Contador de visitas do perfil" />
 
 </div>
 
@@ -21,6 +26,7 @@ Construo sistemas web completos, do protótipo no Figma ao deploy, com testes au
 
 - 🏥 **Bolsista de Desenvolvimento no PET-Saúde Digital** (Unifor + Ministério da Saúde): equipe que desenvolve um sistema de painel de chamadas de pacientes para o SUS, com React, TypeScript e Spring Boot.
 - 📐 **Estudando Arquitetura de Sistemas**: princípios SOLID e padrões de projeto GoF e GRASP. Nas férias, o plano é tirar isso do papel num projeto próprio.
+- ☕ **Bootcamp Java com IA (Itaú + DIO)**: Java e Spring Boot.
 
 ## 🚀 Projetos em destaque
 
@@ -64,7 +70,34 @@ Marketplace de doação e troca de materiais universitários, feito para o desaf
 - **NeuroLearn** (startup) · Co-fundador e desenvolvedor back-end · API com mais de 50 endpoints · 🥇 1º lugar no 7º Bootcamp de Startups do Unifor Hub · 2026
 - **Unifor** · Monitor de Modelagem de Problemas com Matemática (2025–2026) e autor de artigo aprovado no XXVI Encontro de Iniciação à Docência
 
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Franmagno06&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Francisco no GitHub" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Franmagno06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" height="165" alt="Estatísticas do GitHub de Francisco" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franmagno06&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" height="165" alt="Linguagens mais usadas por Francisco" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franmagno06&theme=github-compact&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Gráfico de contribuições dos últimos 30 dias" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franmagno06/Franmagno06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franmagno06/Franmagno06/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Franmagno06/Franmagno06/output/github-snake.svg" alt="Animação da cobrinha comendo o gráfico de contribuições" />
+</picture>
+
+</div>
+
 <div align="center">
 <br/>
 <sub>Aberto a conversar sobre estágio, projetos e tecnologia. O caminho mais rápido é o LinkedIn.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0D1117&height=100&section=footer" width="100%" alt="" />
 </div>
